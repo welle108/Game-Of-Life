@@ -1,5 +1,5 @@
 # Game-Of-Life
-## A C++ implementation of Conway's Game of Life
+### A C++ implementation of Conway's Game of Life
 
 
 <img src="gol_images/gol_1.png">
