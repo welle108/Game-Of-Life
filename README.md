@@ -5,6 +5,7 @@
 <img src="gol_images/gol_1.png">
 <img src="gol_images/gol_2.png">
 <img src="gol_images/gol_3.png">
+<img src="gol_images/gol_4.png">
 
 
 Assignment Source Files:
