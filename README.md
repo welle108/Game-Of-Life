@@ -3,6 +3,11 @@ A C++ implementation of Conway's Game of Life
 Scott Weller
 Game of Life
 
+<img src="gol_images/gol_1.png">
+<img src="gol_images/gol_2.png">
+<img src="gol_images/gol_3.png">
+
+
 Assignment Source Files:
 * main.cpp
 * Game.cpp
